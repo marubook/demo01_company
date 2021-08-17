@@ -159,7 +159,7 @@ a {
 .main-visual {
   width: 100%;
   height: 600px;
-  background: url(../image/mainvisual.jpg) no-repeat center center/cover;
+  background: url(mainvisual.jpg) no-repeat center center/cover;
   position: relative;
   margin-top: 100px;
 }
@@ -188,7 +188,7 @@ a {
 }
 
 .swiper-button-next {
-  background: transparent url(/image/arrow-next.png) no-repeat center center/contain;
+  background: transparent url(arrow-next.png) no-repeat center center/contain;
   width: 40px;
   height: 40px;
   margin-top: -20px;
@@ -213,7 +213,7 @@ a {
 }
 
 .swiper-button-prev {
-  background: transparent url(/image/arrow-prev.png) no-repeat center center/contain;
+  background: transparent url(arrow-prev.png) no-repeat center center/contain;
   width: 40px;
   height: 40px;
   margin-top: -20px;
@@ -544,7 +544,7 @@ a {
 .news__more span::after {
   content: "";
   position: absolute;
-  background: url(../image/news-arrow.png) no-repeat center center/contain;
+  background: url(news-arrow.png) no-repeat center center/contain;
   height: 11px;
   width: 7px;
   right: -10px;
@@ -660,7 +660,7 @@ a {
           transform: translateY(-50%);
   width: 7px;
   height: 11px;
-  background: url(../image/news-arrow.png) no-repeat center center/contain;
+  background: url(news-arrow.png) no-repeat center center/contain;
 }
 
 @media (max-width: 767px) {
@@ -854,7 +854,7 @@ a {
 .access__button a::after {
   content: "";
   position: absolute;
-  background: url(../image/button-arrow.png) no-repeat center center/contain;
+  background: url(button-arrow.png) no-repeat center center/contain;
   top: 50%;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
@@ -999,7 +999,7 @@ a {
   -webkit-box-shadow: none;
           box-shadow: none;
   border: 1px solid #707070;
-  background: #fff url(../image/select-arrow.png) no-repeat right 12px center/17px 14px;
+  background: #fff url(select-arrow.png) no-repeat right 12px center/17px 14px;
   padding: 12px 16px;
   -webkit-appearance: none;
      -moz-appearance: none;
@@ -1114,7 +1114,7 @@ a {
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
   left: 0;
-  background: url(../image/checkbox.png) center center/contain;
+  background: url(checkbox.png) center center/contain;
   width: 25px;
   height: 25px;
   display: none;
@@ -1141,7 +1141,7 @@ a {
 }
 
 .contact-form__button [type="submit"] {
-  background: #3F51B5 url(../image/button-arrow.png) no-repeat right 12px center/17px 16px;
+  background: #3F51B5 url(button-arrow.png) no-repeat right 12px center/17px 16px;
   width: 304px;
   display: inline-block;
   color: #fff;
@@ -1476,7 +1476,7 @@ a {
           transform: translateY(-50%);
   width: 8px;
   height: 11px;
-  background: url(../image/arrow-b.png) no-repeat center center/contain;
+  background: url(arrow-b.png) no-repeat center center/contain;
 }
 
 .drawer-background {
